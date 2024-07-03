@@ -15,6 +15,8 @@ Task 2 Model build.ipynb - The model architecture is designed to predict multipl
                             The preferable season for the product
                             The gender category (Men, Women, Unisex)
 
+                            The models performance is the result of limited epochs as the gpu compute available.
+
 streamlit_app.py - A Streamlit-based UI for easy interaction with the model. This UI allows users to upload images and see the model's predictions in real-time.
 
 1.png, 2.jpg, 3.jpg, 4.jpg, 5.jpg - Sample screenshots of fashion products were taken from the Amazon website. These samples were used to test the model's prediction capabilities and validate its performance.
